@@ -1269,7 +1269,7 @@ section:nth-child(odd) {
 
 .fade-in {
     animation: fadeIn 0.8s ease-out;
-    opacity: 0;
+    opacity: 1;
 }
 
 .fade-in.visible {
